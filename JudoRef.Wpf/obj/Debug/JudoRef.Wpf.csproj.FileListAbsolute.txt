@@ -1,0 +1,15 @@
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\bin\Debug\JudoRef.Wpf.exe.config
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\bin\Debug\JudoRef.Wpf.exe
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\bin\Debug\JudoRef.Wpf.pdb
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\JudoRef.Wpf.csprojAssemblyReference.cache
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\App.g.cs
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\JudoRef.Wpf_MarkupCompile.cache
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\JudoRef.Wpf_MarkupCompile.lref
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\JudoRef.Wpf.g.resources
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\JudoRef.Wpf.Properties.Resources.resources
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\JudoRef.Wpf.csproj.GenerateResource.cache
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\JudoRef.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\JudoRef.Wpf.exe
+C:\Users\Jelle\Desktop\JudoRap\JudoRef.Wpf\obj\Debug\JudoRef.Wpf.pdb
